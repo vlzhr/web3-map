@@ -23,3 +23,5 @@ How to build business using Web3 technologies or empower the existing one?
 A map where everyone can find jouney suitable for his goals:
 
 https://coggle.it/diagram/Xy1bTcZTxk93nfo5/t/-/a8d6e550ea7980f97003b1d1e22e7a8c1d1f32ccef0d79d736847ad2431332b3
+
+![](https://server.vlzhr.top/hosted/9343758map.png)
